@@ -1,6 +1,3 @@
-data/output/**
 venv/
 *.log
 __pycache__/
-
-!data/output/.gitkeep
